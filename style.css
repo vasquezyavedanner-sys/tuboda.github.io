@@ -1,0 +1,23 @@
+body,html{
+    h1{
+        color:blanchedalmond
+    }
+    p {
+        color:aquamarine;
+      }
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(tuboda.png) center center;
+    background-size: cover;
+}
+.contenedor{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
